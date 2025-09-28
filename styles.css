@@ -1,0 +1,22 @@
+body {
+  font-family: Baskerville, Baskerville Old Face, Garamond, Times New Roman,
+    serif;
+  background-color: #f8f9fa;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e63946;
+  font-weight: bold;
+}
+
+.card-title {
+  color: #1d3557;
+}
+
+.card-img-top {
+  height: 250px;
+  object-fit: cover;
+}
